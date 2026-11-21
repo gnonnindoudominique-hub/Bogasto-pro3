@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'bogasto-reparation-v6';
+const CACHE_NAME = 'GSM CLIENTS -reparation-v6';
 const FILES = ['./','./index.html','./manifest.json','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install', (e) => {
